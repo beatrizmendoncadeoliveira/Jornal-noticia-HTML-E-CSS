@@ -1,0 +1,61 @@
+
+
+  
+ #cabecalho{
+	 background-color:grey;
+	 text-align:center;
+	 padding:20px;
+	 margin:0;
+	 color:white;
+ }
+	
+#corpo h1{
+	text-align:center;
+	font-size:50px;
+	color:red;
+}
+	#corpo h5{
+		font-size:25px;
+		text-align:center;
+	}
+	
+	#centro img{
+      display:block;
+	  margin-left:auto;
+	  margin-right:auto;
+	 
+	  
+	}
+    #centro p{
+		font-size:25px;
+		
+	}
+	
+	#rodape{
+		background-color:grey;
+		text-align:center;
+		margin: 0 auto;
+		width:500px;
+	
+		
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
